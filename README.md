@@ -107,7 +107,7 @@ finance-app/
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/Pankaj-Bori/finance-app.git
+git clone https://github.com/Pankaj-Bori/ai-finance-dashboard.git
 cd finance-app
 ```
 
